@@ -1,0 +1,34 @@
+
+  // const getListData = (value) => {
+  //   let listData;
+  //   switch (value.date()) {
+  //     case dte:
+  //       listData = [
+  //         {
+  //           date: date,
+  //           time: time,
+  //           eventname: eventname,
+  //         },
+
+  //       ];
+  //       break;
+
+  //     default:
+  //   }
+  //   return listData || [];
+  // };
+
+  // const stringdate = JSON.stringify(moment(date).format("MMM Do YY"));
+  // const dte = stringdate.split("th")[0].split(" ")[1];
+  // // console.log(singledate);
+
+
+
+
+
+  // <Comment
+  //                     avatar='https://joeschmoe.io/api/v1/random'
+  //                     datetime={<Tooltip title={takendate}>
+  //                       <span>{takendate}</span>
+  //                     </Tooltip>}
+  //                   >{item.msg}</Comment>

@@ -1,0 +1,29 @@
+/* .Form1{
+    display: grid;
+ justify-content: center;
+ margin-top: 5rem;
+}
+.Form2{
+    display: grid;
+ justify-content: center;
+ margin-top: 5rem;
+}
+.Form3{
+    display: grid;
+ justify-content: center;
+ margin-top: 5rem;
+} */
+.Steps{
+    display: grid;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.carousel-element{
+    display: flex;
+    margin-left:49rem;
+    margin-top: 5rem; 
+}
+/* .ant-form{
+    display: grid;
+ justify-content: center;
+} */
